@@ -1,0 +1,1 @@
+This repository contains the implementation of a ResNet model designed for modulation recognition in communication systems. The goal is to classify different modulation schemes from input signal data accurately.
